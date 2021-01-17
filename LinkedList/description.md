@@ -2,7 +2,7 @@ Just like python lists, Linked List is an array like data structure. However, Li
 as their elements are not stored at sequenced locations. Linked Lists are a product of connected nodes and a node is a composite 
 of two properties, the element that we want to store and the next node which contain our next element and key to next node, and so on.
 ![alt text](https://github.com/project-mlx/ADS/blob/main/LinkedList/1.png)
-Advantagous:
+Advantages:
 - Dynamic Data Structure
 - Flexible memory allocation (Linked Lists are not fixed in size)
 - Ease of insertion and deletion
