@@ -1,4 +1,5 @@
 A Graph is a non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.
+
 ![alt text](https://github.com/project-mlx/ADS/blob/main/Graphs/graph-data-structures-L.png)
 
 In the above Graph, the set of vertices V = {1,2,2,3,4,5,6} and the set of edges E = {1-2, 1-5, 2-3, 2-4, 2-5, 3-2, 3-4, 3-6, 4-2, 4-3, 4-5, 4-6, 5-2, 5-4, 5-6, 6-3, 6-4, 6-5}.
