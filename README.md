@@ -2,4 +2,4 @@
 # ADS
 Algorithms and Data Structures using Python
 
-## Please follow [Project MLX](https://www.instagram.com/project.mlx/) on Instagram
+## Please follow [Project MLX](https://www.instagram.com/huzefa.project.mlx/) on Instagram
