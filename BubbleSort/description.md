@@ -1,4 +1,4 @@
-#Bubble Sort
+# Bubble Sort
 
 
 ![alt text](https://github.com/project-mlx/ADS/blob/main/BubbleSort/Bubble-sort-2.png)
